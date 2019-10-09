@@ -217,4 +217,4 @@ if [ $# == 4 ]; then
   esac
 fi
 
-# vi: ft=sh
+# vi: ft=sh ts=2 sw=2 sts=2
